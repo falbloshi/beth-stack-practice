@@ -1,0 +1,5 @@
+{ "dependencies": { "elysia": "^0.8.15", "htmx": "^0.0.2", "turso": "^0.1.0" }, "name": "beginner", "module": "index.ts", "type": "module", "devDependencies": {
+  "@types/bun": "latest"
+}, "peerDependencies": {
+  "typescript": "^5.0.0"
+} }
